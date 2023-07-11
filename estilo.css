@@ -1,0 +1,5 @@
+.box {
+    border: 1px solid black; /* define a borda da caixa */
+    padding: 10px; /* define o preenchimento interno da caixa */
+    background-color: #f2f2f2; /* define a cor de fundo da caixa */
+  }
